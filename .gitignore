@@ -1,0 +1,5 @@
+ppgs_alignments/
+utils/mfcc_zhao
+utils/PPGs
+*.npy
+*.txt

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f759d82-42c2-4114-bb5b-b9eb188a4eca" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$generate_data_list.coverage" NAME="generate_data_list Coverage Results" MODIFIED="1575283679608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$make_mfcc.coverage" NAME="make_mfcc Coverage Results" MODIFIED="1574993065518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$test_length__1_.coverage" NAME="test_length (1) Coverage Results" MODIFIED="1575422724649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$train.coverage" NAME="train Coverage Results" MODIFIED="1575338760955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$test.coverage" NAME="test Coverage Results" MODIFIED="1575511045746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$audio.coverage" NAME="audio Coverage Results" MODIFIED="1575272455786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$test_length.coverage" NAME="test_length Coverage Results" MODIFIED="1575421982848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$timit_dataset.coverage" NAME="timit_dataset Coverage Results" MODIFIED="1575592012817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$collect_ppgs.coverage" NAME="collect_ppgs Coverage Results" MODIFIED="1575338539830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yh6vL7R5XDkjSBPMSzezmKG3QT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.generate_batch">
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="ppgs_extractor-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_batch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ppgs_extractor-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_batch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_mfcc (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ppgs_extractor-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/make_mfcc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_mfcc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ppgs_extractor-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/make_mfcc.py" />
+      <option name="PARAMETERS" value="--wav_dir /home/data/LibriTTS/train-clean-100 --mfcc_dir ./utils/LibriTTS100_mfcc" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ppgs_extractor-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests in test_length.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="ppgs_extractor-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../../../../文章\u0026代码/VoiceConversion/Phonetic posteriorgrams for many-to-one voice conversion without parallel data training/ppgs_extractor-master/utils/test_length.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="ppgs_extractor-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.make_mfcc" />
+      <item itemvalue="Python.generate_batch" />
+      <item itemvalue="Python.make_mfcc (1)" />
+      <item itemvalue="Python tests.Nosetests in test_length.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.generate_batch" />
+        <item itemvalue="Python tests.Nosetests in test_length.py" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.make_mfcc" />
+        <item itemvalue="Python.make_mfcc (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f759d82-42c2-4114-bb5b-b9eb188a4eca" name="Default" comment="" />
+      <created>1574840321486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574840321486</updated>
+      <workItem from="1583382709165" duration="10952000" />
+      <workItem from="1583727335853" duration="8429000" />
+      <workItem from="1583762063777" duration="1161000" />
+      <workItem from="1583818650873" duration="1744000" />
+      <workItem from="1583821305050" duration="4132000" />
+      <workItem from="1584336811440" duration="9855000" />
+      <workItem from="1584508739394" duration="2409000" />
+      <workItem from="1584593936997" duration="4476000" />
+      <workItem from="1585405760496" duration="866000" />
+      <workItem from="1587366742551" duration="2273000" />
+      <workItem from="1587442712416" duration="454000" />
+      <workItem from="1587810612591" duration="395000" />
+      <workItem from="1587878857122" duration="1384000" />
+      <workItem from="1588077698492" duration="2179000" />
+      <workItem from="1588329003951" duration="970000" />
+      <workItem from="1588409740159" duration="4934000" />
+      <workItem from="1589172357194" duration="587000" />
+      <workItem from="1589174500369" duration="557000" />
+      <workItem from="1589206831216" duration="599000" />
+      <workItem from="1590662713677" duration="599000" />
+      <workItem from="1590738385828" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="91" key="#Deployment" timestamp="1583393010098">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="319" y="91" key="#Deployment/0.23.1440.805@0.23.1440.805" timestamp="1583393010098" />
+    <state x="183" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588485285306">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="183" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.805@0.23.1440.805" timestamp="1583820699937" />
+    <state x="183" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.807@0.23.1440.807" timestamp="1588485285306" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom" timestamp="1589001061151">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1396" height="246" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1583826372981" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1589001061150" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center" timestamp="1589001061149">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1396" height="246" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1583826372980" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1589001061149" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left" timestamp="1589001061148">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1396" height="246" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1583826372979" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1589001061148" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right" timestamp="1589001061150">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1396" height="246" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1583826372980" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1589001061150" />
+    <state width="1396" height="246" key="GridCell.Tab.1.bottom" timestamp="1584341970811">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1396" height="246" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1583821263249" />
+    <state width="1396" height="246" key="GridCell.Tab.1.bottom/0.23.1440.807@0.23.1440.807" timestamp="1584341970811" />
+    <state width="1396" height="246" key="GridCell.Tab.1.center" timestamp="1584341970810">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1396" height="246" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1583821263248" />
+    <state width="1396" height="246" key="GridCell.Tab.1.center/0.23.1440.807@0.23.1440.807" timestamp="1584341970810" />
+    <state width="1396" height="246" key="GridCell.Tab.1.left" timestamp="1584341970810">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1396" height="246" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1583821263248" />
+    <state width="1396" height="246" key="GridCell.Tab.1.left/0.23.1440.807@0.23.1440.807" timestamp="1584341970810" />
+    <state width="1396" height="246" key="GridCell.Tab.1.right" timestamp="1584341970811">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1396" height="246" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1583821263249" />
+    <state width="1396" height="246" key="GridCell.Tab.1.right/0.23.1440.807@0.23.1440.807" timestamp="1584341970811" />
+    <state x="228" y="64" key="SettingsEditor" timestamp="1583392982717">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="228" y="64" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1583392982717" />
+    <state x="481" y="153" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1583392980829">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="481" y="153" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.23.1440.805@0.23.1440.805" timestamp="1583392980829" />
+    <state x="626" y="161" key="ftp.server.browser" timestamp="1583393008724">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="626" y="161" key="ftp.server.browser/0.23.1440.805@0.23.1440.805" timestamp="1583393008724" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/audio.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/audio.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/audio.py</url>
+          <line>353</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/audio.py</url>
+          <line>351</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/collect_ppgs.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/timit_dataset.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/timit_dataset.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/timit_dataset.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/timit_dataset.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/timit_dataset.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/timit_dataset.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/make_mfcc.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/collect_ppgs.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/generate_data_list.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/make_mfcc.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/make_mfcc.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generate_batch.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generate_batch.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/make_mfcc.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$collect_ppgs.coverage" NAME="collect_ppgs Coverage Results" MODIFIED="1583397631097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$Nosetests_in_test_data_length_py.coverage" NAME="Nosetests in test_data_length.py Coverage Results" MODIFIED="1588485109185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$test.coverage" NAME="test Coverage Results" MODIFIED="1588484572324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$generate_data_list.coverage" NAME="generate_data_list Coverage Results" MODIFIED="1583411906790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$train.coverage" NAME="train Coverage Results" MODIFIED="1583412193321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$make_mfcc.coverage" NAME="make_mfcc Coverage Results" MODIFIED="1584341967160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$generate_batch.coverage" NAME="generate_batch Coverage Results" MODIFIED="1589001061138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$generate.coverage" NAME="generate Coverage Results" MODIFIED="1583738990996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$make_mfcc__1_.coverage" NAME="make_mfcc (1) Coverage Results" MODIFIED="1584341958285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/ppgs_extractor_master$Nosetests_in_test_length_py.coverage" NAME="Nosetests in test_length.py Coverage Results" MODIFIED="1588485292031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+  </component>
+</project>
