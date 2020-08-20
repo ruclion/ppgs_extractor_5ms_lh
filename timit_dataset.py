@@ -4,10 +4,10 @@ import time
 
 #生成数据的代码
 #train/test每一行都只是一个文件名
-TRAIN_FILE = './train.txt'#'/media/luhui/experiments_data/librispeech/train.txt'
-TEST_FILE = './test.txt'#'/media/luhui/experiments_data/librispeech/dev.txt'
-MFCC_DIR =  './utils/LibritMFCC'      #'/media/luhui/experiments_data/librispeech/mfcc_hop12.5'#生成MFCC的目录
-PPG_DIR =   './utils/PPGS'   #'/media/luhui/experiments_data/librispeech/phone_labels_hop12.5'
+TRAIN_FILE = './small_train.txt'#'/media/luhui/experiments_data/librispeech/train.txt'
+TEST_FILE = './small_train.txt'#'/media/luhui/experiments_data/librispeech/dev.txt'
+MFCC_DIR =  './utils/mfcc_zhao'      #'/media/luhui/experiments_data/librispeech/mfcc_hop12.5'#生成MFCC的目录
+PPG_DIR =   './utils/PPGs'   #'/media/luhui/experiments_data/librispeech/phone_labels_hop12.5'
 MFCC_DIM = 39
 PPG_DIM = 345
 

@@ -8,13 +8,14 @@ import sys
 import numpy as np
 
 
-os.environ["CUDA_VISIBLE_DEVICES"]="0"#2
+os.environ["CUDA_VISIBLE_DEVICES"]="2"#2
 
 from models import CnnDnnClassifier, DNNClassifier, CNNBLSTMCalssifier
 from timit_dataset import train_generator, test_generator
 #
 # some super parameters
-BATCH_SIZE = 64
+# BATCH_SIZE = 64
+BATCH_SIZE = 16
 STEPS = int(5e5)
 LEARNING_RATE = 0.3
 STARTED_DATESTRING = "{0:%Y-%m-%dT%H-%M-%S}".format(datetime.now())
@@ -22,6 +23,10 @@ MAX_TO_SAVE = 20
 CKPT_EVERY = 1000
 MFCC_DIM = 39
 PPG_DIM = 345
+
+logdir = 'log_dir'
+model_dir = 'ckpt_model_dir'
+restore_dir = 'ckpt_model_dir'
 
 
 def get_arguments():
@@ -39,11 +44,11 @@ def get_arguments():
     parser.add_argument('--batch_size', type=int, default=BATCH_SIZE)
     parser.add_argument('--steps', type=int, default=STEPS)
     parser.add_argument('--lr', type=float, default=LEARNING_RATE)
-    parser.add_argument('--output-model-path', dest='output_model_path', required=True, type=str,
-                        default=os.path.dirname(os.path.realpath(__file__)), help='Philly model output path.')
-    parser.add_argument('--log-dir', dest='log_dir', required=True, type=str,
-                        default=os.path.dirname(os.path.realpath(__file__)), help='Philly log dir.')
-    parser.add_argument('--restore_from', type=str, default=None)
+    # parser.add_argument('--output-model-path', dest='output_model_path', required=True, type=str,
+    #                     default=os.path.dirname(os.path.realpath(__file__)), help='Philly model output path.')
+    # parser.add_argument('--log-dir', dest='log_dir', required=True, type=str,
+    #                     default=os.path.dirname(os.path.realpath(__file__)), help='Philly log dir.')
+    # parser.add_argument('--restore_from', type=str, default=None)
     parser.add_argument('--overwrite', type=_str_to_bool, default=True,
                         help='Whether to overwrite the old model ckpt,'
                              'valid when restore_from is not None')
@@ -111,9 +116,9 @@ def main():
     # 命令行帮助界面
     args = get_arguments()
     # 命令行参数中制定好的
-    logdir = args.log_dir
-    model_dir = args.output_model_path
-    restore_dir = args.output_model_path
+    # logdir = args.log_dir
+    # model_dir = args.output_model_path
+    # restore_dir = args.output_model_path
 
     train_dir = os.path.join(logdir, STARTED_DATESTRING, 'train')
     dev_dir = os.path.join(logdir, STARTED_DATESTRING, 'dev')

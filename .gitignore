@@ -3,3 +3,5 @@ utils/mfcc_zhao
 utils/PPGs
 *.npy
 *.txt
+ckpt_model_dir/
+log_dir/
