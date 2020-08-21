@@ -3,5 +3,10 @@ utils/mfcc_zhao
 utils/PPGs
 *.npy
 *.txt
+*.wav
+*.csv
 ckpt_model_dir/
 log_dir/
+vc_pipeline/
+LibriSpeech_ckpt_model_zhaoxt_dir/
+LibriSpeech/wavs/
