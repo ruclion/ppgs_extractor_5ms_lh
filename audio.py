@@ -27,6 +27,7 @@ _mel_basis = None
 
 def load_wav(wav_f, sr=None):
     wav_arr, _ = librosa.load(wav_f, sr=sr)
+    assert _ == 16000
     return wav_arr
 
 

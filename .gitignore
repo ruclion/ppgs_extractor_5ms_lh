@@ -10,3 +10,7 @@ log_dir/
 vc_pipeline/
 LibriSpeech_ckpt_model_zhaoxt_dir/
 LibriSpeech/wavs/
+DataBaker_Bilingual_CN/
+DataBaker_Bilingual_EN/
+DataBaker_Bilingual_MIX/
+LJSpeech-1.1/
