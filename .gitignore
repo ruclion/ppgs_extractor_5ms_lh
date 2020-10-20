@@ -14,3 +14,4 @@ DataBaker_Bilingual_CN/
 DataBaker_Bilingual_EN/
 DataBaker_Bilingual_MIX/
 LJSpeech-1.1/
+*__pycache__*

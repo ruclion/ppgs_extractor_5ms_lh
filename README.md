@@ -1,10 +1,17 @@
 
 
-#PPG-extractor：
+# PPG-extractor：
 
-/* 本代码以mfcc作为输入，以ppgs作为输出。
+本代码以mfcc作为输入，以ppgs作为输出。
+
+audio.py不是后来我整理的很标准的audio.py，但是提取mfcc的是一致的，注意center的取值；
+
+1. 对于提取文件mel，spec，mfcc，使用了后来的audio.py，后缀中多了_by_audio_2，用的是Get_MFCC_SPEC_MEL_XXX_5ms.py
+
+2. PPG特征部分代码只用了generate_batch.py，以及欣陶给的ckpt，英文的ASR的ckpt，别的没有用。5ms
 
 
+# 以下是卢辉和欣陶原来的文档
 
 
 
